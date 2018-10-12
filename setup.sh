@@ -11,6 +11,7 @@ brew install postgres
 brew install rbenv
 brew install redis
 brew install tmux
+brew install yarn
 
 # Start brew services
 brew services start postgresql
