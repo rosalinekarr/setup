@@ -24,7 +24,8 @@ brew cask install opera
 brew cask install slack
 
 # Create mackup config file
-curl https://raw.githubusercontent.com/rosalinekarr/setup/master/.mackup.cfg > ~/.mackup.cfg
+echo "[storage]
+engine = icloud" > ~/.mackup.cfg
 
 # Restore preferences backup
 mackup restore
