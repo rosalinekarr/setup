@@ -22,6 +22,7 @@ brew cask install google-chrome
 brew cask install keybase
 brew cask install opera
 brew cask install slack
+brew cask install zoomus
 
 # Create mackup config file
 echo "[storage]
