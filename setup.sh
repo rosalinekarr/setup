@@ -6,6 +6,7 @@ brew install git
 brew install go
 brew install gpg
 brew install hub
+brew install jq
 brew install mackup
 brew install postgres
 brew install rbenv
