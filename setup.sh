@@ -8,6 +8,7 @@ brew install gpg
 brew install hub
 brew install jq
 brew install mackup
+brew install node
 brew install postgres
 brew install rbenv
 brew install redis
