@@ -7,8 +7,12 @@ brew install go
 brew install gpg
 brew install hub
 brew install mackup
+brew install postgres
 brew install rbenv
 brew install tmux
+
+# Start brew services
+brew services start postgresql
 
 # Add Casks to Homebrew
 brew tap caskroom/cask
