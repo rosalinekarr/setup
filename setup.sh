@@ -9,10 +9,12 @@ brew install hub
 brew install mackup
 brew install postgres
 brew install rbenv
+brew install redis
 brew install tmux
 
 # Start brew services
 brew services start postgresql
+brew services start redis
 
 # Add Casks to Homebrew
 brew tap caskroom/cask
